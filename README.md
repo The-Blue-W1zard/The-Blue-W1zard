@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Blue-W1zard
-- 👀 I’m interested in ... Coding and gaming
-- 🌱 I’m currently learning ... Python & a bit of java/c++
+- 👀 I’m interested in ....
+- 🌱 I’m currently learning ... Python & a bit of java/c++ (now c# and gdscript)
 - 💞️ I’m looking to collaborate on ... Nothing yet
 - 📫 How to reach me ...
 
